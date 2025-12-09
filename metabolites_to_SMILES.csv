@@ -1,0 +1,467 @@
+,Exact Match to Standard (* = isomer family),SMILES
+HILIC-neg_Cluster_0622,"1,2,3,4-tetrahydro-1-methyl-beta-carboline-3-carboxylic acid",CC1NC(Cc2c1[nH]c3ccccc23)C(O)=O
+C18-neg_Cluster_0183,"1,2,3,4-tetrahydro-b-carboline-1,3-dicarboxylic acid",OC(=O)C1Cc2c([nH]c3ccccc23)C(N1)C(O)=O
+C18-neg_Cluster_0393,12.13-diHOME,CCCCCC(O)C(O)C\C=C/CCCCCCCC(O)=O
+HILIC-neg_Cluster_0480,1-3-7-trimethylurate,CN1C(=O)N(C)C2=C(N(C)C(=O)N2)C1=O
+C18-neg_Cluster_0530,13-docosenoate,CCCCCCCCC=CCCCCCCCCCCCC([O-])=O
+HILIC-pos_Cluster_0245,1-methylguanine,CN1C(=Nc2nc[nH]c2C1=O)N
+HILIC-pos_Cluster_0110,1-methylnicotinamide,CN1CC(=CC=C1)C(N)=O
+HILIC-neg_Cluster_0032,2-aminobutyric acid,CCC(N)C(O)=O
+HILIC-pos_Cluster_0728,2-deoxyadenosine,Nc1ncnc2n(cnc12)C3CC(O)C(CO)O3
+HILIC-neg_Cluster_0113,2-hydroxy-3-methylpentanoic acid /  leucinic acid,CCC(C)C(O)C(O)=O
+HILIC-neg_Cluster_0169,2-hydroxyglutarate,OC(CCC([O-])=O)C([O-])=O
+C18-neg_Cluster_0219,2-hydroxyhexadecanoate,CCCCCCCCCCCCCCC(O)C([O-])=O
+C18-neg_Cluster_0144,2-hydroxymyristic acid,CCCCCCCCCCCCC(O)C(O)=O
+HILIC-pos_Cluster_0114,2-hydroxyphenethylamine,NCCc1ccccc1O
+HILIC-neg_Cluster_0161,2-methylglutaric acid,CC(CCC(O)=O)C(O)=O
+HILIC-neg_Cluster_0220,3-methyladipate-pimelate,CC(CCC(O)=O)CC(O)=O.OC(=O)CCCCCC(O)=O
+HILIC-pos_Cluster_0272,3-methylhistidine,Cn1cncc1C[C@H](N)C(O)=O
+HILIC-pos_Cluster_0254,3-methylxanthine,CN1C(=O)NC(=O)c2[nH]cnc12
+HILIC-pos_Cluster_0150,4-guanidinobutanoic acid,NC(=N)NCCCC(O)=O
+HILIC-pos_Cluster_0177,4-hydroxy-3-methylacetophenone,CC(=O)c1ccc(O)c(C)c1
+HILIC-neg_Cluster_0079,4-hydroxybenzaldehyde,Oc1ccc(C=O)cc1
+C18-neg_Cluster_0004,4-hydroxystyrene,Oc1ccc(C=C)cc1
+HILIC-neg_Cluster_0084,4-methylcatechol,Cc1ccc(O)c(O)c1
+HILIC-neg_Cluster_0133,4-nitrophenol,Oc1ccc(cc1)[N+]([O-])=O
+HILIC-neg_Cluster_0335,4-pyridoxate,Cc1ncc(CO)c(C(O)=O)c1O
+HILIC-pos_Cluster_0422,5-acetylamino-6-amino-3-methyluracil,CN1C(=O)NC(=C(NC(C)=O)C1=O)N
+HILIC-pos_Cluster_1370,5alpha-cholestanol,CC(CO)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4CCCC[C@]4(C)[C@H]3CC[C@]12C
+C8-pos_Cluster_0100,7-hexadecenoic acid methyl ester,CCCCCCCCC=CCCCCCC(=O)OC
+C18-neg_Cluster_0901,7-ketodeoxycholate,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@H]3[C@H](C[C@H](O)[C@]12C)[C@@]4(C)CC[C@@H](O)C[C@H]4CC3=O
+HILIC-pos_Cluster_0246,7-methylguanine,Cn1cnc2N=C(N)NC(=O)c12
+HILIC-pos_Cluster_0914,8-hydroxy-deoxyguanosine,NC1=Nc2n([C@H]3C[C@H](O)[C@@H](CO)O3)c(O)nc2C(=O)N1
+C18-neg_Cluster_0394,9.10-diHOME,CCCCC\C=C/CC(O)C(O)CCCCCCCC(O)=O
+C18-neg_Cluster_0025,acesulfame,CC1=CC(=O)N[S](=O)(=O)O1
+HILIC-neg_Cluster_0232,acesulfame,CC1=CC(=O)N[S](=O)(=O)O1
+HILIC-neg_Cluster_0103,acetylalanine,C[C@H](NC(C)=O)C(O)=O
+HILIC-pos_Cluster_0152,acetylcholine,CC(=O)OCC[N+](C)(C)C
+C18-neg_Cluster_0090,acetytyrosine,CC(=O)N[C@@H](Cc1ccc(O)cc1)C(O)=O
+HILIC-neg_Cluster_0120,adenine,Nc1ncnc2nc[nH]c12
+HILIC-pos_Cluster_0447,ADMA,
+HILIC-pos_Cluster_0446,ADMA/SDMA,
+C18-neg_Cluster_0506,adrenic acid,CCCCC\C=C/C/C=C\C\C=C/C/C=C\CCCCCC(O)=O
+HILIC-pos_Cluster_0008,alanine,C[C@H](N)C(O)=O
+HILIC-neg_Cluster_0015,alanine,C[C@H](N)C(O)=O
+HILIC-neg_Cluster_0034,alpha-hydroxybutyrate,CCC(O)C([O-])=O
+HILIC-neg_Cluster_0159,alpha-ketoglutarate,[O-]C(=O)CCC(=O)C([O-])=O
+HILIC-neg_Cluster_0062,alpha-ketoisovalerate,CC(C)C(=O)C([O-])=O
+C18-neg_Cluster_0244,alpha-linolenic acid,CC\C=C/C/C=C\C\C=C/CCCCCCCC(O)=O
+C18-neg_Cluster_0927,alpha-muricholate,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3C(O)C(O)[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+HILIC-pos_Cluster_0667,anserine,Cn1cncc1C[C@H](NC(=O)CCN)C(O)=O
+C18-neg_Cluster_0354,arachidonic acid,CCCCC/C=C\C\C=C/C/C=C\C\C=C/CCCC(O)=O
+C18-neg_Cluster_1620,arachidonic acid,CCCCC/C=C\C\C=C/C/C=C\C\C=C/CCCC(O)=O
+C18-neg_Cluster_1941,arachidonic acid,CCCCC/C=C\C\C=C/C/C=C\C\C=C/CCCC(O)=O
+C18-neg_Cluster_0709,arachidonic acid,CCCCC/C=C\C\C=C/C/C=C\C\C=C/CCCC(O)=O
+C18-neg_Cluster_1131,arachidonic acid,CCCCC/C=C\C\C=C/C/C=C\C\C=C/CCCC(O)=O
+HILIC-pos_Cluster_0295,arginine,N[C@@H](CCCNC(N)=N)C(O)=O
+HILIC-neg_Cluster_0290,arginine,N[C@@H](CCCNC(N)=N)C(O)=O
+HILIC-neg_Cluster_0299,ascorbate,OC[C@H](O)[C@H]1OC(=O)[C-](O)C1=O
+HILIC-pos_Cluster_0099,asparagine,N[C@@H](CC(N)=O)C(O)=O
+HILIC-neg_Cluster_0112,asparagine,N[C@@H](CC(N)=O)C(O)=O
+HILIC-neg_Cluster_0117,aspartate,N[C@@H](CC([O-])=O)C([O-])=O
+HILIC-pos_Cluster_0817,atenolol,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1
+HILIC-neg_Cluster_0365,azelaic acid,OC(=O)CCCCCCCC(O)=O
+C18-neg_Cluster_0045,azelate,[O-]C(=O)CCCCCCCC([O-])=O
+HILIC-pos_Cluster_0009,beta-alanine,NCCC(O)=O
+HILIC-pos_Cluster_0048,betaine,C[N+](C)(C)CC([O-])=O
+C8-pos_Cluster_0515,beta-sitosterol,CC[C@H](CC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4CC(O)CC[C@]4(C)[C@H]3CC[C@]12C)C(C)C
+HILIC-pos_Cluster_2052,bilirubin,CC1=C(C=C)/C(NC1=O)=C/c2[nH]c(Cc3[nH]c(\C=C/4NC(=O)C(=C4C)C=C)c(C)c3CCC(O)=O)c(CCC(O)=O)c2C
+HILIC-neg_Cluster_0013,butyrate / isobutytare,CCCC([O-])=O
+HILIC-pos_Cluster_0151,butyrobetaine,C[N+](C)(C)CCCC([O-])=O
+HILIC-pos_Cluster_1374,C14 carnitine,CCCCCCCCCCCCCC(=O)OC(CC([O-])=O)C[N+](C)(C)C
+C8-pos_Cluster_1303,C14:0 CE,CCCCCCCCCCCCCC(=O)OC1CCC2(C)C3CCC4(C)C(CCC4C3CC=C2C1)C(C)CCCC(C)C
+C8-pos_Cluster_1521,C14:0 SM,
+HILIC-pos_Cluster_1486,C16 carnitine,CCCCCCCCCCCCCCCC(=O)OC(CC([O-])=O)C[N+](C)(C)C
+C8-pos_Cluster_1395,C16:0 CE,CCCCCCCCCCCCCCCC(=O)O[C@H]1CC[C@]2(C)[C@H]3CC[C@]4(C)[C@H](CC[C@H]4[C@@H]3CC=C2C1)[C@H](C)CCCC(C)C
+C8-pos_Cluster_1375,C16:0 CE,CCCCCCCCCCCCCCCC(=O)O[C@H]1CC[C@]2(C)[C@H]3CC[C@]4(C)[C@H](CC[C@H]4[C@@H]3CC=C2C1)[C@H](C)CCCC(C)C
+C8-pos_Cluster_1004,C16:0 ceramide (d18:1),
+C8-pos_Cluster_0878,C16:0 LPC,
+HILIC-pos_Cluster_1684,C16:0 LPE,
+C8-pos_Cluster_1657,C16:0 SM,
+HILIC-pos_Cluster_2293,C16:0 SM,
+C8-pos_Cluster_1369,C16:1 CE,
+C8-pos_Cluster_1386,C16:1 CE,
+HILIC-pos_Cluster_1773,C16:1 LPC plasmalogen,
+C8-pos_Cluster_0354,C16:1 MAG,
+C8-pos_Cluster_0313,C16:1 MAG,
+C8-pos_Cluster_1647,C16:1 SM,
+HILIC-pos_Cluster_1593,C18 carnitine,CCCCCCCCCCCCCCCCCC(=O)OC(CC([O-])=O)C[N+](C)(C)C
+C8-pos_Cluster_1525,C18:0 CE,CCCCCCCCCCCCCCCCCC(=O)O[C@H]1CC[C@]2(C)[C@H]3CC[C@]4(C)[C@H](CC[C@H]4[C@@H]3CC=C2C1)[C@H](C)CCCC(C)C
+C8-pos_Cluster_1502,C18:0 CE,CCCCCCCCCCCCCCCCCC(=O)O[C@H]1CC[C@]2(C)[C@H]3CC[C@]4(C)[C@H](CC[C@H]4[C@@H]3CC=C2C1)[C@H](C)CCCC(C)C
+C8-pos_Cluster_0949,C18:0 LPC,
+HILIC-pos_Cluster_1899,C18:0 LPC,
+C8-pos_Cluster_0467,C18:0 MAG,
+C8-pos_Cluster_0446,C18:0 MAG,
+C8-pos_Cluster_1758,C18:0 SM,
+C8-pos_Cluster_0338,C18:0e MAG,
+C8-pos_Cluster_0410,C18:0e MAG,
+HILIC-pos_Cluster_1586,C18:1 carnitine,CCCCCCCC\C=C/CCCCCCCC(=O)OC(CC([O-])=O)C[N+](C)(C)C
+C8-pos_Cluster_1490,C18:1 CE,CCCCCCCC\C=C/CCCCCCCC(=O)O[C@H]1CC[C@]2(C)[C@H]3CC[C@]4(C)[C@H](CC[C@H]4[C@@H]3CC=C2C1)[C@H](C)CCCC(C)C
+C8-pos_Cluster_1514,C18:1 CE  ,CCCCCCCC\C=C/CCCCCCCC(=O)O[C@H]1CC[C@]2(C)[C@H]3CC[C@]4(C)[C@H](CC[C@H]4[C@@H]3CC=C2C1)[C@H](C)CCCC(C)C
+C8-pos_Cluster_0945,C18:1 LPC,
+HILIC-pos_Cluster_1855,C18:1 LPC plasmalogen,
+HILIC-pos_Cluster_1893,C18:1 LPC,
+HILIC-pos_Cluster_1580,C18:2 carnitine,CCCCC/C=C\C\C=C/CCCCCCCC(=O)OC(CC([O-])=O)C[N+](C)(C)C
+C8-pos_Cluster_1478,C18:2 CE,CCCCC/C=C/C/C=C/CCCCCCCC(=O)OC1CCC2(C)C3CCC4(C)C(CCC4C3CC=C2C1)C(C)CCCC(C)C
+C8-pos_Cluster_1504,C18:2 CE,CCCCC/C=C/C/C=C/CCCCCCCC(=O)OC1CCC2(C)C3CCC4(C)C(CCC4C3CC=C2C1)C(C)CCCC(C)C
+C8-pos_Cluster_0939,C18:2 LPC,
+C8-pos_Cluster_1468,C18:3 CE,CC\C=C/C\C=C/C\C=C/CCCCCCCC(=O)O[C@H]1CC[C@]2(C)[C@H]3CC[C@]4(C)[C@H](CC[C@H]4[C@@H]3CC=C2C1)[C@H](C)CCCC(C)C
+C8-pos_Cluster_1494,C18:3 CE,CC\C=C/C\C=C/C\C=C/CCCCCCCC(=O)O[C@H]1CC[C@]2(C)[C@H]3CC[C@]4(C)[C@H](CC[C@H]4[C@@H]3CC=C2C1)[C@H](C)CCCC(C)C
+C8-pos_Cluster_0936,C18:3 LPC,
+HILIC-pos_Cluster_0453,C2 carnitine,CC(=O)OC(CC([O-])=O)C[N+](C)(C)C
+HILIC-pos_Cluster_1691,C20 carnitine,CCCCCCCCCCCCCCCCCCCC(=O)OC(CC([O-])=O)C[N+](C)(C)C
+C8-pos_Cluster_0915,C20:0 LPE,
+C8-pos_Cluster_1610,C20:3 CE,
+C8-pos_Cluster_1635,C20:3 CE,
+HILIC-pos_Cluster_1673,C20:4 carnitine,CCCCC/C=C\C\C=C/C/C=C\C\C=C/CCCC(=O)OC(CC([O-])=O)C[N+](C)(C)C
+C8-pos_Cluster_1623,C20:4 CE,CCCCC\C=C/C\C=C/C\C=C/C\C=C/CCCC(=O)O[C@H]1CC[C@]2(C)[C@H]3CC[C@]4(C)[C@H](CC[C@H]4[C@@H]3CC=C2C1)[C@H](C)CCCC(C)C
+C8-pos_Cluster_1597,C20:4 CE,CCCCC\C=C/C\C=C/C\C=C/C\C=C/CCCC(=O)O[C@H]1CC[C@]2(C)[C@H]3CC[C@]4(C)[C@H](CC[C@H]4[C@@H]3CC=C2C1)[C@H](C)CCCC(C)C
+C8-pos_Cluster_1614,C20:5 CE,
+C8-pos_Cluster_1012,C20:5 LPC,
+C8-pos_Cluster_1888,C22:0 SM,
+C8-pos_Cluster_0678,C22:1 MAG,
+C8-pos_Cluster_1884,C22:1 SM,
+C8-pos_Cluster_1722,C22:4 CE,
+C8-pos_Cluster_1742,C22:4 CE,
+C8-pos_Cluster_1712,C22:5 CE,
+C8-pos_Cluster_1736,C22:5 CE,
+C8-pos_Cluster_1726,C22:6 CE,
+C8-pos_Cluster_1970,C24:0 SM,
+C8-pos_Cluster_0868,C24:0 TAG,
+C8-pos_Cluster_1965,C24:1 SM,
+C8-pos_Cluster_2019,C24:1 SM ,
+C8-pos_Cluster_1070,C30:0 DAG,
+C8-pos_Cluster_1186,C32:0 DAG,
+C8-pos_Cluster_1761,C32:1 PC,
+C8-pos_Cluster_1146,C32:2 DAG,
+C8-pos_Cluster_1302,C34:0 DAG,
+C8-pos_Cluster_1727,C34:0 PE,
+C8-pos_Cluster_1277,C34:1 DAG,
+C8-pos_Cluster_1821,C34:1 PC,
+C8-pos_Cluster_1800,C34:1 PC plasmalogen-A,
+C8-pos_Cluster_1291,C34:2 DAG,
+C8-pos_Cluster_1271,C34:2 DAG,
+C8-pos_Cluster_1817,C34:2 PC,
+C8-pos_Cluster_1282,C34:3 DAG,
+C8-pos_Cluster_1262,C34:3 DAG,
+C8-pos_Cluster_1393,C36:0 DAG,
+C8-pos_Cluster_1889,C36:1 PC,
+C8-pos_Cluster_1377,C36:2 DAG,
+C8-pos_Cluster_1364,C36:2 DAG,
+C8-pos_Cluster_1886,C36:2 PC,
+C8-pos_Cluster_1856,C36:2 PC plasmalogen,
+HILIC-pos_Cluster_2372,C36:2 PC,
+C8-pos_Cluster_1373,C36:3 DAG,
+C8-pos_Cluster_1358,C36:3 DAG,
+C8-pos_Cluster_1879,C36:3 PC,
+C8-pos_Cluster_1367,C36:4 DAG,
+C8-pos_Cluster_1351,C36:4 DAG,
+C8-pos_Cluster_1873,C36:4 PC-A,
+C8-pos_Cluster_1874,C36:4 PC-B,
+C8-pos_Cluster_1833,C36:5 PC plasmalogen-A,
+C8-pos_Cluster_1835,C36:5 PC plasmalogen-B,
+C8-pos_Cluster_1473,C38:5 DAG,
+HILIC-pos_Cluster_0790,C3-DC-CH3 carnitine,CC(CC([O-])=O)CC(=O)OC(CC(O)=O)C[N+](C)(C)C
+HILIC-pos_Cluster_0625,C4 carnitine,CCCC(=O)OC(CC([O-])=O)C[N+](C)(C)C
+C8-pos_Cluster_1799,C42:0 TAG,
+C8-pos_Cluster_1791,C42:0 TAG,
+C8-pos_Cluster_1861,C44:0 TAG,
+C8-pos_Cluster_1848,C44:0 TAG,
+C8-pos_Cluster_1854,C44:1 TAG,
+C8-pos_Cluster_1837,C44:1 TAG,
+C8-pos_Cluster_1932,C46:0 TAG,
+C8-pos_Cluster_1912,C46:0 TAG,
+C8-pos_Cluster_1922,C46:1 TAG,
+C8-pos_Cluster_1907,C46:1 TAG,
+C8-pos_Cluster_1915,C46:2 TAG,
+C8-pos_Cluster_1902,C46:2 TAG,
+C8-pos_Cluster_2003,C48:0 TAG,
+C8-pos_Cluster_1992,C48:0 TAG,
+C8-pos_Cluster_1997,C48:1 TAG,
+C8-pos_Cluster_1995,C48:2 TAG,
+C8-pos_Cluster_1976,C48:2 TAG,
+C8-pos_Cluster_1987,C48:3 TAG,
+C8-pos_Cluster_1980,C48:4 TAG,
+C8-pos_Cluster_2022,C49:1 TAG,
+C8-pos_Cluster_2088,C50:0 TAG,
+C8-pos_Cluster_2081,C50:1 TAG,
+C8-pos_Cluster_2064,C50:1 TAG,
+C8-pos_Cluster_2075,C50:2 TAG,
+C8-pos_Cluster_2069,C50:3 TAG,
+C8-pos_Cluster_2046,C50:3 TAG,
+C8-pos_Cluster_2056,C50:4 TAG,
+C8-pos_Cluster_2040,C50:4 TAG,
+C8-pos_Cluster_2048,C50:5 TAG,
+C8-pos_Cluster_2130,C51:0 TAG,
+C8-pos_Cluster_2117,C51:2 TAG,
+C8-pos_Cluster_2102,C51:2 TAG,
+C8-pos_Cluster_2094,C51:3 TAG,
+C8-pos_Cluster_2168,C52:0 TAG,
+C8-pos_Cluster_2154,C52:0 TAG,
+C8-pos_Cluster_2161,C52:1 TAG,
+C8-pos_Cluster_2147,C52:1 TAG,
+C8-pos_Cluster_2156,C52:2 TAG,
+C8-pos_Cluster_2140,C52:2 TAG,
+C8-pos_Cluster_2149,C52:3 TAG,
+C8-pos_Cluster_2136,C52:3 TAG,
+C8-pos_Cluster_2141,C52:4 TAG,
+C8-pos_Cluster_2132,C52:4 TAG,
+C8-pos_Cluster_2138,C52:5 TAG,
+C8-pos_Cluster_2124,C52:5 TAG,
+C8-pos_Cluster_2134,C52:6 TAG,
+C8-pos_Cluster_2119,C52:6 TAG,
+C8-pos_Cluster_2128,C52:7 TAG,
+C8-pos_Cluster_2192,C53:3 TAG,
+C8-pos_Cluster_2178,C53:3 TAG,
+C8-pos_Cluster_2242,C54:1 TAG,
+C8-pos_Cluster_2240,C54:2 TAG,
+C8-pos_Cluster_2233,C54:3 TAG,
+C8-pos_Cluster_2218,C54:3 TAG,
+C8-pos_Cluster_2226,C54:4 TAG,
+C8-pos_Cluster_2211,C54:4 TAG,
+C8-pos_Cluster_2220,C54:5 TAG,
+C8-pos_Cluster_2207,C54:5 TAG,
+C8-pos_Cluster_2215,C54:6 TAG,
+C8-pos_Cluster_2201,C54:6 TAG,
+C8-pos_Cluster_2210,C54:7 TAG,
+C8-pos_Cluster_2202,C54:8 TAG,
+C8-pos_Cluster_2197,C54:9 TAG,
+C8-pos_Cluster_2284,C55:2 TAG,
+C8-pos_Cluster_2277,C55:3 TAG,
+C8-pos_Cluster_2319,C56:1 TAG,
+C8-pos_Cluster_2308,C56:1 TAG,
+C8-pos_Cluster_2313,C56:2 TAG,
+C8-pos_Cluster_2306,C56:2 TAG,
+C8-pos_Cluster_2311,C56:3 TAG,
+C8-pos_Cluster_2303,C56:3 TAG,
+C8-pos_Cluster_2307,C56:4 TAG,
+C8-pos_Cluster_2297,C56:4 TAG,
+C8-pos_Cluster_2304,C56:5 TAG,
+C8-pos_Cluster_2300,C56:6 TAG,
+C8-pos_Cluster_2286,C56:6 TAG,
+C8-pos_Cluster_2293,C56:7 TAG,
+C8-pos_Cluster_2345,C58:6 TAG,
+C8-pos_Cluster_2341,C58:7 TAG,
+HILIC-pos_Cluster_0405,caffeine,Cn1cnc2N(C)C(=O)N(C)C(=O)c12
+HILIC-neg_Cluster_0064,caproic acid,CCCCCC(O)=O
+HILIC-neg_Cluster_0156,caprylic acid,CCCCCCCC(O)=O
+HILIC-pos_Cluster_0230,carnitine,C[N+](C)(C)CC(O)CC([O-])=O
+HILIC-pos_Cluster_0590,carnosine,NCCC(=O)N[C@@H](Cc1[nH]cnc1)C(O)=O
+C18-neg_Cluster_0486,carnosol,CC(C)c1cc2C3CC4C(C)(C)CCC[C@]4(C(=O)O3)c2c(O)c1O
+C18-neg_Cluster_1045,chenodeoxycholate,C[C@H](CCC([O-])=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+C18-neg_Cluster_0832,chenodeoxycholate,C[C@H](CCC([O-])=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+C18-neg_Cluster_1292,chenodeoxycholate,C[C@H](CCC([O-])=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+C18-neg_Cluster_1060,chenodeoxycholate,C[C@H](CCC([O-])=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+C18-neg_Cluster_1129,chenodeoxycholate,C[C@H](CCC([O-])=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+HILIC-neg_Cluster_1360,chenodeoxycholate/deoxycholate,C[C@H](CCC([O-])=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+C18-neg_Cluster_1258,cholate,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C
+C18-neg_Cluster_0930,cholate,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C
+HILIC-neg_Cluster_1403,cholate,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C
+C18-neg_Cluster_1178,cholate,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C
+C18-neg_Cluster_1273,cholate,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C
+C18-neg_Cluster_1372,cholate,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C
+C18-neg_Cluster_1621,cholate,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C
+C18-neg_Cluster_1722,cholate,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C
+C8-pos_Cluster_1849,cholestenone,C[C@H](CCCC(=C)C=O)[C@H]1CC[C@H]2[C@@H]3CCC4CCCC[C@]4(C)[C@H]3CC[C@]12C
+C8-pos_Cluster_1900,cholestenone,C[C@H](CCCC(=C)C=O)[C@H]1CC[C@H]2[C@@H]3CCC4CCCC[C@]4(C)[C@H]3CC[C@]12C
+C8-pos_Cluster_0478,cholestenone,C[C@H](CCCC(=C)C=O)[C@H]1CC[C@H]2[C@@H]3CCC4CCCC[C@]4(C)[C@H]3CC[C@]12C
+C8-pos_Cluster_0554,cholestenone,C[C@H](CCCC(=C)C=O)[C@H]1CC[C@H]2[C@@H]3CCC4CCCC[C@]4(C)[C@H]3CC[C@]12C
+C8-pos_Cluster_0629,cholestenone,C[C@H](CCCC(=C)C=O)[C@H]1CC[C@H]2[C@@H]3CCC4CCCC[C@]4(C)[C@H]3CC[C@]12C
+C8-pos_Cluster_0705,cholestenone,C[C@H](CCCC(=C)C=O)[C@H]1CC[C@H]2[C@@H]3CCC4CCCC[C@]4(C)[C@H]3CC[C@]12C
+C8-pos_Cluster_0416,cholesterol,CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+HILIC-pos_Cluster_0022,choline,C[N+](C)(C)CCO
+HILIC-neg_Cluster_0392,citrate,OC(CC([O-])=O)(CC([O-])=O)C([O-])=O
+HILIC-pos_Cluster_0306,citrulline,N[C@@H](CCCNC(N)=O)C(O)=O
+HILIC-neg_Cluster_0296,citrulline,N[C@@H](CCCNC(N)=O)C(O)=O
+HILIC-pos_Cluster_0090,creatine,CN(CC(O)=O)C(N)=N
+HILIC-pos_Cluster_0036,creatinine,CN1CC(=O)N=C1N
+HILIC-neg_Cluster_0677,cystine,N[C@@H](CSSC[C@H](N)C(O)=O)C(O)=O
+HILIC-pos_Cluster_0032,cytosine,NC1=NC(=O)NC=C1
+C18-neg_Cluster_0833,deoxycholic acid,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C
+HILIC-pos_Cluster_0734,deoxyinosine,OC[C@H]1O[C@H](C[C@@H]1O)n2cnc3c(O)ncnc23
+HILIC-neg_Cluster_0740,deoxyinosine,OC[C@H]1O[C@H](C[C@@H]1O)n2cnc3c(O)ncnc23
+HILIC-pos_Cluster_0936,diacetylspermine,CC(=O)N(CCCNCCCCNCCCN)C(C)=O
+HILIC-neg_Cluster_0199,dihydroxybenzoic acid,OC(=O)c1cccc(O)c1O
+HILIC-pos_Cluster_0298,dimethyllysine,CN(C)[C@@H](CCCCN)C(O)=O
+C18-neg_Cluster_0472,docosahexaenoic acid,CCCCCCCCCC=CC=CC=CC=CC=CC=CC(O)=O
+HILIC-neg_Cluster_1126,docosapentaenoate,CCCCCCCCCCCC=CC=CC=CC=CC=CC([O-])=O
+C18-neg_Cluster_0490,docosapentaenoic acid,CCCCCCCCCCCC=CC=CC=CC=CC=CC(O)=O
+C18-neg_Cluster_0863,docosapentaenoic acid,CCCCCCCCCCCC=CC=CC=CC=CC=CC(O)=O
+C18-neg_Cluster_0729,docosapentaenoic acid ,CCCCCCCCCCCC=CC=CC=CC=CC=CC(O)=O
+C18-neg_Cluster_1324,docosapentaenoic acid ,CCCCCCCCCCCC=CC=CC=CC=CC=CC(O)=O
+C18-neg_Cluster_0111,dodecanedioic acid,OC(=O)CCCCCCCCCCC(O)=O
+HILIC-neg_Cluster_1002,eicosapentaenoic acid,CCCCCCCCCC=CC=CC=CC=CC=CC(O)=O
+C18-neg_Cluster_0351,eicosapentaenoic acid,CCCCCCCCCC=CC=CC=CC=CC=CC(O)=O
+C18-neg_Cluster_0591,eicosatrienoic acid,CCCCCCCCCCCCCC=CC=CC=CC(O)=O
+C18-neg_Cluster_0361,eicosatrienoic acid,CCCCCCCCCCCCCC=CC=CC=CC(O)=O
+C18-neg_Cluster_0373,eicosenoate,CCCCCCCCCCCCCCCCCC=CC([O-])=O
+C8-pos_Cluster_0737,epoxysqualene,CC(C)=CCCC(/C)=C/CCC(/C)=C/CC/C=C(C)/CC/C=C(C)/CCC=C1COC1
+HILIC-neg_Cluster_0122,erythronic acid,OC[C@@H](O)[C@@H](O)C(O)=O
+HILIC-pos_Cluster_0913,ethyl 9-hexadecenoate,CCCCCCC=CCCCCCCCC(=O)OCC
+HILIC-neg_Cluster_0562,ethyl glucuronide,CCOC1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)C(O)=O
+HILIC-neg_Cluster_0321,fructose/glucose/galactose,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO
+HILIC-neg_Cluster_0237,fucose,C[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)C=O
+HILIC-neg_Cluster_0061,fumarate/maleate,[O-]C(=O)/C=C/C([O-])=O
+HILIC-pos_Cluster_0658,geranyl acetoacetate,CC(=O)CC(=O)OC\C=C(/C)CCC=C(C)C
+HILIC-pos_Cluster_0657,geranyl acetoacetate,CC(=O)CC(=O)OC\C=C(/C)CCC=C(C)C
+HILIC-neg_Cluster_0401,glucurote,O[C@@H](C=O)[C@@H](O)[C@H](O)[C@H](O)C(O)=O
+HILIC-pos_Cluster_0160,glutamate,N[C@@H](CCC([O-])=O)C([O-])=O
+HILIC-neg_Cluster_0166,glutamate,N[C@@H](CCC([O-])=O)C([O-])=O
+HILIC-pos_Cluster_0156,glutamine,N[C@@H](CCC(N)=O)C(O)=O
+HILIC-neg_Cluster_0162,glutamine,N[C@@H](CCC(N)=O)C(O)=O
+HILIC-neg_Cluster_0036,glycerate,OCC(O)C([O-])=O
+HILIC-neg_Cluster_1571,glycocholate,C[C@H](CCC(=O)NCC([O-])=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C
+C18-neg_Cluster_1196,glycodeoxycholic acid,CC(CCCNCC(O)=O)C1CCC2C3CC[C@@H]4C[C@H](O)CC[C@@]4(C)C3C[C@H](O)[C@]12C
+C18-neg_Cluster_1081,glycolithocholic acid,C[C@H](CCC(=O)NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+C18-neg_Cluster_1197,glycoursodeoxycholic acid,C[C@H](CCC(=O)NCC(O)=O)[C@H]1CCC2C3[C@@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)C3CC[C@]12C
+HILIC-neg_Cluster_0182,guanine,NC1=Nc2nc[nH]c2C(=O)N1
+HILIC-neg_Cluster_0909,guanosine,NC1=Nc2n(cnc2C(=O)N1)[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O
+HILIC-neg_Cluster_0841,heptadecanoate,CCCCCCCCCCCCCCCCC([O-])=O
+C18-neg_Cluster_0268,hexadecanedioic acid,OC(=O)CCCCCCCCCCCCCCC(O)=O
+HILIC-pos_Cluster_0033,histamine,NCCc1c[nH]cn1
+HILIC-neg_Cluster_0201,histidine,N[C@@H](Cc1c[nH]cn1)C(O)=O
+HILIC-neg_Cluster_0328,homovanillate,COc1cc(CC([O-])=O)ccc1O
+HILIC-neg_Cluster_0181,hydrocinnamic acid,OC(=O)CCc1ccccc1
+HILIC-neg_Cluster_0070,hydroxyisovaleric acid,CC(C)C(O)C(O)=O
+HILIC-pos_Cluster_0089,hydroxyproline,O[C@H]1CN[C@@H](C1)C(O)=O
+C18-neg_Cluster_0830,hyodeoxycholate/ursodeoxycholate,CC(CCC(O)=O)C1CCC2C3CC(O)C4CC(O)CCC4(C)C3CCC12C
+HILIC-pos_Cluster_0108,hypoxanthine,O=C1NC=Nc2nc[nH]c12
+HILIC-neg_Cluster_0123,hypoxanthine,O=C1NC=Nc2nc[nH]c12
+HILIC-pos_Cluster_0121,imidazole propionate,CCC(O)=O.[nH]1ccnc1
+HILIC-neg_Cluster_0204,imidazolelactate,OC(Cc1[nH]ccn1)C([O-])=O
+HILIC-pos_Cluster_0822,inosine,OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc3c(O)ncnc23
+HILIC-neg_Cluster_0824,inosine,OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc3c(O)ncnc23
+HILIC-pos_Cluster_0092,isoleucine,CC[C@H](C)[C@H](N)C(O)=O
+C18-neg_Cluster_0900,ketodeoxycholate,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@H]3[C@H](C[C@H](O)[C@]12C)[C@@]4(C)CC[C@@H](O)C[C@H]4CC3=O
+HILIC-pos_Cluster_0383,kynurenic acid,OC(=O)C1=CC(=O)c2ccccc2N1
+HILIC-pos_Cluster_0521,"L-1,2,3,4-tetrahydro-beta-carboline-3-carboxylic acid",N[C@@H](Cc1c[nH]c2ccccc12)C(O)=O
+HILIC-neg_Cluster_0020,lactate,CC(O)C([O-])=O
+HILIC-neg_Cluster_1170,lactose,OCC1OC(OC2C(O)C(O)C(O)OC2CO)C(O)C(O)C1O
+HILIC-pos_Cluster_0091,leucine,CC(C)C[C@H](N)C(O)=O
+HILIC-neg_Cluster_0105,leucine,CC(C)C[C@H](N)C(O)=O
+HILIC-neg_Cluster_0230,levoglucosan,OC1C(O)C2COC(O2)C1O
+C18-neg_Cluster_0246,linoleic acid,CCCCC/C=C\C\C=C/CCCCCCCC(O)=O
+HILIC-neg_Cluster_1325,linoleoyl ethanolamide,CCCCC/C=C\C\C=C/CCCCCCCC(=O)NCCO
+HILIC-pos_Cluster_1160,linoleoyl ethanolamide,CCCCC/C=C\C\C=C/CCCCCCCC(=O)NCCO
+C8-pos_Cluster_1495,linoleoyl ethanolamide ,CCCCC/C=C\C\C=C/CCCCCCCC(=O)NCCO
+C8-pos_Cluster_0264,linoleoyl ethanolamide ,CCCCC/C=C\C\C=C/CCCCCCCC(=O)NCCO
+HILIC-pos_Cluster_1148,linoleoyl ethanolamide ,CCCCC/C=C\C\C=C/CCCCCCCC(=O)NCCO
+C8-pos_Cluster_0339,linoleoyl ethanolamide ,CCCCC/C=C\C\C=C/CCCCCCCC(=O)NCCO
+HILIC-neg_Cluster_1088,linoleoyl ethanolamide ,CCCCC/C=C\C\C=C/CCCCCCCC(=O)NCCO
+HILIC-neg_Cluster_1303,lithocholate,C[C@H](CCC([O-])=O)[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+C18-neg_Cluster_0731,lithocholic acid,C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+HILIC-neg_Cluster_0247,L-phenyllactic acid,
+HILIC-pos_Cluster_0157,lysine,NCCCC[C@H](N)C(O)=O
+HILIC-neg_Cluster_0118,malate,OC(CC([O-])=O)C([O-])=O
+HILIC-neg_Cluster_0033,malonate,[O-]C(=O)CC([O-])=O
+C18-neg_Cluster_1680,maslinic acid,CC1(C)CC[C@@]2(CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)C[C@@H](O)[C@H](O)C(C)(C)[C@@H]5CC[C@@]34C)[C@@H]2C1)C(O)=O
+C18-neg_Cluster_1385,maslinic acid,CC1(C)CC[C@@]2(CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)C[C@@H](O)[C@H](O)C(C)(C)[C@@H]5CC[C@@]34C)[C@@H]2C1)C(O)=O
+C18-neg_Cluster_1803,maslinic acid,CC1(C)CC[C@@]2(CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)C[C@@H](O)[C@H](O)C(C)(C)[C@@H]5CC[C@@]34C)[C@@H]2C1)C(O)=O
+C18-neg_Cluster_2068,maslinic acid,CC1(C)CC[C@@]2(CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)C[C@@H](O)[C@H](O)C(C)(C)[C@@H]5CC[C@@]34C)[C@@H]2C1)C(O)=O
+HILIC-pos_Cluster_0167,methionine,CSCC[C@H](N)C(O)=O
+HILIC-neg_Cluster_0173,methionine,CSCC[C@H](N)C(O)=O
+HILIC-pos_Cluster_0244,methionine sulfoxide,C[S](=O)CC[C@H](N)C(O)=O
+HILIC-neg_Cluster_0030,methylbutyric aid / valeric / isovaleric,CCC(C)C(O)=O
+HILIC-pos_Cluster_0191,methylpyridonecarboxamide,
+C18-neg_Cluster_0107,myristic acid,
+HILIC-neg_Cluster_0372,N-acetylglutamate,
+HILIC-pos_Cluster_0384,N-acetylglutamic acid,
+HILIC-pos_Cluster_0495,N-acetylglutamic acid,
+HILIC-pos_Cluster_0419,N-acetylhistidine,
+HILIC-pos_Cluster_0524,N-acetyl-L-arginine,
+HILIC-pos_Cluster_0086,N-acetylputrescine,
+HILIC-pos_Cluster_0038,N-acetylputrescine,
+HILIC-pos_Cluster_0374,N-acetylspermidine,
+C18-neg_Cluster_0672,nervonic acid,
+HILIC-neg_Cluster_0082,nicotinate,[O-]C(=O)c1cccnc1
+HILIC-pos_Cluster_0062,nicotinic acid,OC(=O)c1cccnc1
+HILIC-pos_Cluster_0082,N-methylproline,CN1CCC[C@H]1C(O)=O
+HILIC-pos_Cluster_0378,NMMA,CN[C@@H](CCCNC(N)=N)C(O)=O
+C8-pos_Cluster_0341,N-oleoylethanolamine ,CCCCCCCC\C=C/CCCCCCCC(=O)NCCO
+C18-neg_Cluster_1596,oleanolic acid,CC1(C)CC[C@@]2(CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@@]34C)[C@@H]2C1)C(O)=O
+C18-neg_Cluster_1275,oleanolic acid,CC1(C)CC[C@@]2(CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@@]34C)[C@@H]2C1)C(O)=O
+C18-neg_Cluster_0250,oleic acid,CCCCCCCC\C=C/CCCCCCCC(O)=O
+HILIC-pos_Cluster_0100,ornithine,NCCC[C@H](N)C(O)=O
+HILIC-neg_Cluster_0203,orotate,[O-]C(=O)C1=CC(=O)NC(=O)N1
+HILIC-neg_Cluster_0016,oxalate,[O-]C(=O)C([O-])=O
+C18-neg_Cluster_0171,palmitic acid,CCCCCCCCCCCCCCCC(O)=O
+C18-neg_Cluster_0164,palmitoleic acid,CCCCCC\C=C/CCCCCCCC(O)=O
+C8-pos_Cluster_0288,palmitoyl glycerol,CCCCCCCCCCCCCCCC(=O)OCC(O)CO
+C18-neg_Cluster_0515,palmitoylethanolamide,CCCCCCCCCCCCCCCC(=O)NCCO
+C18-neg_Cluster_0563,palmitoylethanolamide,CCCCCCCCCCCCCCCC(=O)NCCO
+C8-pos_Cluster_0168,palmitoylethanolamide,CCCCCCCCCCCCCCCC(=O)NCCO
+HILIC-pos_Cluster_0540,pantothenate,CC(C)(CO)[C@@H](O)C(=O)NCCC([O-])=O
+HILIC-neg_Cluster_0552,pantothete,CC(C)(CO)[C@@H](O)C(=O)NCCC([O-])=O
+HILIC-neg_Cluster_0697,pentadecanoate,CCCCCCCCCCCCCCC([O-])=O
+HILIC-neg_Cluster_0125,phenylacetate,[O-]C(=O)Cc1ccccc1
+HILIC-pos_Cluster_0248,phenylalanine,N[C@@H](Cc1ccccc1)C(O)=O
+HILIC-neg_Cluster_0242,phenylalanine,N[C@@H](Cc1ccccc1)C(O)=O
+C18-neg_Cluster_0031,phenyllactate,CC(O)C(=O)Oc1ccccc1
+C18-neg_Cluster_0019,p-hydroxyphenylacetate,Oc1ccc(CC([O-])=O)cc1
+HILIC-pos_Cluster_1113,phytosphingosine,CCCCCCCCCCCCCC[C@@H](O)[C@@H](O)[C@@H](N)CO
+HILIC-pos_Cluster_0081,pipecolic acid,OC(=O)C1CCCCN1
+C8-pos_Cluster_0136,piperine,O=C(/C=C/C=C/c1ccc2OCOc2c1)N3CCCCC3
+HILIC-pos_Cluster_0927,piperine,O=C(/C=C/C=C/c1ccc2OCOc2c1)N3CCCCC3
+HILIC-pos_Cluster_0041,proline,OC(=O)[C@@H]1CCCN1
+HILIC-neg_Cluster_0059,proline,OC(=O)[C@@H]1CCCN1
+HILIC-pos_Cluster_0134,proline betaine,C[N+]1(C)CCCC1C([O-])=O
+HILIC-neg_Cluster_0003,propionate,CCC([O-])=O
+HILIC-neg_Cluster_0707,pseudouridine,OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)C2=CNC(=O)NC2=O
+HILIC-pos_Cluster_0007,putrescine,NCCCCN
+HILIC-pos_Cluster_0268,pyridoxamine,Cc1ncc(CO)c(CN)c1O
+HILIC-pos_Cluster_0184,pyridoxamine,Cc1ncc(CO)c(CN)c1O
+HILIC-neg_Cluster_0040,pyrocatechol,Oc1ccccc1O
+HILIC-pos_Cluster_0079,pyroglutamic acid,OC(=O)[C@@H]1CCC(=O)N1
+HILIC-neg_Cluster_0192,ribitol,OC[C@@H](O)[C@@H](O)[C@@H](O)CO
+HILIC-neg_Cluster_1300,riboflavin,Cc1cc2N=C3C(=O)NC(=O)N=C3N(CC(O)C(O)C(O)CO)c2cc1C
+HILIC-neg_Cluster_0332,saccharin,O=C1N[S](=O)(=O)c2ccccc12
+HILIC-neg_Cluster_0129,salicylate,Oc1ccccc1C([O-])=O
+C18-neg_Cluster_0064,sebacate,[O-]C(=O)CCCCCCCCC([O-])=O
+HILIC-neg_Cluster_0441,sebacate,[O-]C(=O)CCCCCCCCC([O-])=O
+HILIC-pos_Cluster_0024,serine,N[C@@H](CO)C(O)=O
+HILIC-neg_Cluster_0035,serine,N[C@@H](CO)C(O)=O
+HILIC-neg_Cluster_0283,shikimate,OC1CC(=CC(O)C1O)C(O)=O
+HILIC-neg_Cluster_0331,sorbitol,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
+HILIC-pos_Cluster_1017,sphinganine,CCCCCCCCCCCCCCC[C@@H](O)[C@@H](N)CO
+C8-pos_Cluster_0166,sphingosine,CCCCCCCCCCCCC/C=C/[C@@H](O)[C@@H](N)CO
+C8-pos_Cluster_0123,sphingosine,CCCCCCCCCCCCC/C=C/[C@@H](O)[C@@H](N)CO
+C8-pos_Cluster_0253,sphingosine,CCCCCCCCCCCCC/C=C/[C@@H](O)[C@@H](N)CO
+C8-pos_Cluster_0988,sphingosine,CCCCCCCCCCCCC/C=C/[C@@H](O)[C@@H](N)CO
+C18-neg_Cluster_0256,stearic acid,CCCCCCCCCCCCCCCCCC(O)=O
+C8-pos_Cluster_0277,stearoyl ethanolamide,CCCCCCCCCCCCCCCCCC(=O)NCCO
+HILIC-neg_Cluster_0288,suberate,[O-]C(=O)CCCCCCC([O-])=O
+HILIC-neg_Cluster_0069,succite,[O-]C(=O)CCC([O-])=O
+HILIC-neg_Cluster_0174,tartarate,OC(C(O)C([O-])=O)C([O-])=O
+HILIC-pos_Cluster_0066,taurine,NCC[S](O)(=O)=O
+HILIC-neg_Cluster_0085,taurine,NCC[S](O)(=O)=O
+C18-neg_Cluster_1574,taurochenodesoxycholic acid,[Na].C[C@H](CCC(=O)NCC[S](O)(=O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+HILIC-neg_Cluster_1675,taurodeoxycholate/taurochenodeoxycholate,CC(CCC(=O)NCC[S](O)(=O)=O)C1CCC2C3CCC4C[C@H](O)CC[C@]4(C)C3C[C@H](O)[C@]12C
+C18-neg_Cluster_1575,taurodeoxycholic acid,CC(CCC(=O)NCC[S](O)(=O)=O)[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C
+C18-neg_Cluster_1576,taurohyodeoxycholate/ tauroursodeoxycholate,C[C@H](CCC(=O)NCC[S](O)(=O)=O)[C@H]1CC[C@H]2[C@@H]3C[C@H](O)[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+C18-neg_Cluster_1465,taurolithocholic acid,[Na].C[C@H](CCC(=O)NCC[S](O)(=O)=O)[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+C18-neg_Cluster_0177,tetradecanedioate,[O-]C(=O)CCCCCCCCCCCCC([O-])=O
+HILIC-pos_Cluster_0797,thiamine,[Cl-].Cc1ncc(C[n+]2csc(CCO)c2C)c(N)n1
+HILIC-pos_Cluster_0049,threonine,C[C@@H](O)[C@H](N)C(O)=O
+HILIC-neg_Cluster_0073,threonine,C[C@@H](O)[C@H](N)C(O)=O
+HILIC-pos_Cluster_0998,threosphingosine,CCCCCCCCCCCCCCC[C@@H](O)[C@@H](N)CO
+HILIC-pos_Cluster_0906,threosphingosine,CCCCCCCCCCCCCCC[C@@H](O)[C@@H](N)CO
+HILIC-neg_Cluster_0087,thymine,CC1=CNC(=O)NC1=O
+HILIC-pos_Cluster_0172,triethanolamine,OCCN(CCO)CCO
+HILIC-pos_Cluster_0113,trigonelline,C[n+]1cccc(c1)C([O-])=O
+HILIC-pos_Cluster_0054,trimethylbenzene,Cc1cccc(C)c1C
+HILIC-pos_Cluster_0379,trimethyllysine,CN(C)[C@@](C)(CCCCN)C(O)=O
+HILIC-pos_Cluster_0455,tryptophan,N[C@@H](Cc1c[nH]c2ccccc12)C(O)=O
+HILIC-neg_Cluster_0452,tryptophan,N[C@@H](Cc1c[nH]c2ccccc12)C(O)=O
+HILIC-pos_Cluster_0333,tyrosine,N[C@@H](Cc1ccc(O)cc1)C(O)=O
+HILIC-neg_Cluster_0324,tyrosine,N[C@@H](Cc1ccc(O)cc1)C(O)=O
+C18-neg_Cluster_0079,undecanedionate,[O-]C(=O)CCCCCCCCCC([O-])=O
+HILIC-neg_Cluster_0049,uracil,O=C1NC=CC(=O)N1
+HILIC-neg_Cluster_0254,urate,O=C1NC(=O)C2=C(N1)NC(=O)N2
+HILIC-neg_Cluster_0706,uridine,OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N2C=CC(=O)NC2=O
+C18-neg_Cluster_2021,urobilin,CCC1=C(C)C(=O)N[C@H]1Cc2[nH]c(\C=C\3N=C(C[C@@H]4NC(=O)C(=C4C)CC)C(=C3CCC(O)=O)C)c(CCC(O)=O)c2C
+HILIC-pos_Cluster_2093,urobilin,CCC1=C(C)C(=O)N[C@H]1Cc2[nH]c(\C=C\3N=C(C[C@@H]4NC(=O)C(=C4C)CC)C(=C3CCC(O)=O)C)c(CCC(O)=O)c2C
+HILIC-pos_Cluster_0116,urocanic acid,OC(=O)/C=C/c1[nH]cnc1
+HILIC-pos_Cluster_0046,valine,CC(C)[C@H](N)C(O)=O
+HILIC-neg_Cluster_0066,valine,CC(C)[C@H](N)C(O)=O
+HILIC-neg_Cluster_0187,xanthine,O=C1NC(=O)c2[nH]cnc2N1
+HILIC-neg_Cluster_0176,xylose,OC[C@@H](O)[C@H](O)[C@@H](O)C=O
